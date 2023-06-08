@@ -7,7 +7,7 @@
                 <a>characters</a>
             </li>
             <li>
-                <a class="active">comics</a>
+                <a>comics</a>
             </li>
             <li>
                 <a>movies</a>
