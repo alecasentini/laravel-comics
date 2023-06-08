@@ -1,7 +1,3 @@
-@extends ('layout.app')
-
-@section ('content')
-
 @foreach ($comics as $comic)
 
 <div class="flip-card">
@@ -17,6 +13,3 @@
     </div>
 </div>
 @endforeach
-
-
-@endsection
