@@ -1,12 +1,12 @@
 footer {
     #links {
-        background-image: url(../../img/footer-bg.jpg);
+        background-image: url(../img/footer-bg.jpg);
         color: white;
 
         .container {
             width: 80%;
             margin: 0 auto;
-            background-image: url(../../img/dc-logo-bg.png);
+            background-image: url(../img/dc-logo-bg.png);
             background-repeat: no-repeat;
             background-size: 40%;
             background-position: center right;
@@ -52,7 +52,7 @@ footer {
             display: flex;
             justify-content: space-between;
 
-            .btn {
+            .button {
                 padding: 10px;
                 border: 2px solid #0282f9;
                 text-transform: uppercase;

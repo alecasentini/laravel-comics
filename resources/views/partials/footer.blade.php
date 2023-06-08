@@ -54,7 +54,7 @@
 
     <div id="socials">
         <div class="container">
-            <span class="btn">sign-up now!</span>
+            <span class="button">sign-up now!</span>
 
             <div>
                 <span>follow us</span>
